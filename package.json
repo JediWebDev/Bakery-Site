@@ -11,11 +11,15 @@
     "url": "git+https://github.com/JediWebDev/Bakery-Site.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andrew Soria",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/JediWebDev/Bakery-Site/issues"
   },
-  "homepage": "https://github.com/JediWebDev/Bakery-Site#readme"
+  "homepage": "https://github.com/JediWebDev/Bakery-Site#readme",
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "wepack-cli": "^0.0.1-security"
+  }
 }
