@@ -1,10 +1,10 @@
 :root {
     /* Color Palette */
-    --primary-color:var(--primary-color);
-    --secondary-color:var(--secondary-color);
-    --accent-color:var(--accent-color);
-    --background-color:var(--background-color);
-    --text-color:var(--text-color);
+    --primary-color:var(--#FAE8D2;
+    --secondary-color:var(--#F7E9DC);
+    --accent-color:var(--#DF9A3C);
+    --background-color:var(--#E3C7AE);
+    --text-color:var(--#C5B9B5);
 
     /* Fonts */
     --font-family: "Inter", san-serif;
@@ -17,3 +17,4 @@
     margin: 0;
     padding: 0;
 }
+
